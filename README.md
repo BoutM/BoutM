@@ -1,9 +1,5 @@
-Hello!
-- 
-- My name is Max! I am a fourth-year student, studying Business at the Schulich School of Business.
-- I am currently specializing in Economics and Operations Management/Data Analytics, and have fallen in love working with data.
-- Hence, I have deep aspirations to one day become a Data Scientist! 
+Hello!-
 -
--On my Git, I've uploaded some scripts I've had the pleasure to develop in some of my current undergraduate classes. Please feel free to let me know what you think!
--
-- Enjoy! 
+- My name is Max! I am graduate student at the University of Wateloo, undergoing the Masters of Computational Mathematics program. I Specialize in Data Science, Optimization,Operations and Econometrics. That is, not only am I able to utilize an dunderstand advanced Machine Learning Techniques, but also gather inferences/economic interperability from them. I've uploaded some codes that I've developed over the years to my repository. Feel free to explore them!
+
+- Max
