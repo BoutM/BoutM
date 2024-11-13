@@ -1,4 +1,4 @@
-- Hello!
+Hello!
 - 
 - My name is Max! I am a fourth-year student, studying Business at the Schulich School of Business.
 - I am currently specializing in Economics and Operations Management/Data Analytics, and have fallen in love working with data.
