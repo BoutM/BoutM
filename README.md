@@ -1,5 +1,8 @@
 Hello!
 -
-- My name is Max! I am graduate student at the University of Wateloo. I am currently working towards completing the Masters of Computational Mathematics program. That being said, I specialize in Data Science, Optimization, Operations and Econometrics. That is, not only am I able to utilize an dunderstand advanced Machine Learning Techniques, but also gather inferences/economic interperability from them. I've uploaded some projects that I've developed over the years to my repository. Feel free to explore them!
+- My name is Max, I am Masters student at the University of Wateloo. I am currently working towards the completion of the Masters of Computational Mathematics program. That being said, I specialize in Machine Learning, Data Science, Numerical methods, Operations and Econometrics. Having completed a BBA undergraduate at the Schulich School of Business, I understand not only the theoreticals of mathamtical and statistical techniques, but how to effectively apply them in a wide range of situations. Please feel free to explore my projects to get a better understanding of my knoledge and potential skills!
 
+- Thanks! 
+
+- 
 Max
