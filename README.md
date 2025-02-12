@@ -8,4 +8,4 @@ I specialize in the areas of Machine Learning, Data Science, Numerical methods, 
 Thanks! 
 
 
--- Max
+- Max
